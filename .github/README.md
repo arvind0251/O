@@ -12,7 +12,7 @@ Aditya-Player is an advanced & powerful multi-featured Telegram vc streaming bot
 
 <h2>🐬 Host AdityaPlayer On Heroku</h2>
 
-[![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/adityahalder/adityaplayer)
+[![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/arvind0251/O)
 
 
 <h2>♨️ Host AdityaPlayer On VPS Server</h2>
